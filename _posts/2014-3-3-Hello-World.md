@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: [Interesting Title Here]
 ---
 
 Placeholder for when I actually have topics to write about.
