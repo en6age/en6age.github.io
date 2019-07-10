@@ -5,12 +5,15 @@ permalink: /about/
 ---
 
 Thank you for taking the time to visit my website.
-I'm jW, an aspiring security researcher and "whitehat in my own definition" based in the wonderful locale of London.
-This is more a memorabilia than a blog of sorts, but I'll do my best by constructing thoughout PoC's.
+I'm jW, an aspiring security researcher and "whitehat in my own definition" based in the wonderful locale of London. At o knthe moment I'm mainly web-app orientated, but who knows what can come in the near future.
+This is more a memorabilia than a blog of sorts, but I'll do my best to publish well-articulated proof of concept's.
 
 ### Contact 
 If you wish to contact me, please use the mail which can be found below. Please always ensure to encrypt your message with the following PGP key.
 
+```python
+def function1(weight):
+return "test"
 
 [jw@sin.cx](mailto:jw@sin.cx)
 
