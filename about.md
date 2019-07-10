@@ -8,7 +8,7 @@ Thank you for taking the time to visit my website.
 I'm jW, an aspiring security researcher and "whitehat in my own definition" based in the wonderful locale of London.
 This is more a memorabilia than a blog of sorts, but I'll do my best by constructing thoughout PoC's.
 
-### More Information
+### PGP Key Block
 ```-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: Keybase OpenPGP v2.1.0
 Comment: https://keybase.io/crypto
