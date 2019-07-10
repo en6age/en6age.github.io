@@ -8,6 +8,12 @@ Thank you for taking the time to visit my website.
 I'm jW, an aspiring security researcher and "whitehat in my own definition" based in the wonderful locale of London.
 This is more a memorabilia than a blog of sorts, but I'll do my best by constructing thoughout PoC's.
 
+### Contact 
+If you wish to contact me, please use the mail which can be found below. Please always ensure to encrypt your message with the following PGP key.
+
+
+[jw@sin.cx](mailto:jw@sin.cx)
+
 ### PGP Key Block
 ```-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: Keybase OpenPGP v2.1.0
@@ -84,11 +90,6 @@ Czi4Y7MBRbKDWr+FcR/bCmcVJY7BnuLyttqKlGZ1rtL6I53KNgQKdYKwB7XzAiN3
 /jJfzub+D7dScwNO3RLikOGNZyM/7W18ihSYvoL+xXmV6mbmS3wdFVGWpOEcZLn8
 7VOMlSECiR/tSIttjl4kUyh8Ve88o3/kzAruIcYqHm2leQ==
 =XGHv
------END PGP PUBLIC KEY BLOCK-----
-```
-
-### Contact me
-If you wish to contact me, please use the mail which can be found below. Please always ensure to encrypt your message with the PGP key above.
+-----END PGP PUBLIC KEY BLOCK----- ```
 
 
-[jw@sin.cx](mailto:jw@sin.cx)
