@@ -88,7 +88,7 @@ Czi4Y7MBRbKDWr+FcR/bCmcVJY7BnuLyttqKlGZ1rtL6I53KNgQKdYKwB7XzAiN3
 ```
 
 ### Contact me
-If you wish to contact me, the best way would be via mail which can be found below.
-Please always ensure to encrypt your message with the PGP key that can be found above.
+If you wish to contact me, please use the mail which can be found below. Please always ensure to encrypt your message with the PGP key above.
+
 
 [jw@sin.cx](mailto:jw@sin.cx)
