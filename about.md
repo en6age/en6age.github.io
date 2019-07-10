@@ -10,10 +10,9 @@ I'm jW a 17 year old aspiring security researcher and "whitehat in my own defini
 ## Vulnerability Writeup's / CVE's
 
 * [Sample Text](LINK)
-* [Sample Text)](LINK)
 * [Sample Text](LINK)
 * [Sample Text](LINK)
-*
+* [Sample Text](LINK)
 
 ### Contact 
 If you wish to contact me, please use the mail which can be found below. Please always ensure to encrypt your message with the following PGP key.
