@@ -11,15 +11,12 @@ This is more a memorabilia than a blog of sorts, but I'll do my best to publish 
 ### Contact 
 If you wish to contact me, please use the mail which can be found below. Please always ensure to encrypt your message with the following PGP key.
 
-```python
-def function1(weight):
-return "test" 
-```
 
 [jw@sin.cx](mailto:jw@sin.cx)
 
 ### PGP Key Block
-```-----BEGIN PGP PUBLIC KEY BLOCK-----
+```python
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: Keybase OpenPGP v2.1.0
 Comment: https://keybase.io/crypto
 
