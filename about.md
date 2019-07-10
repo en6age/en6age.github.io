@@ -5,7 +5,8 @@ permalink: /about/
 ---
 
 Thank you for taking the time to visit my website.
-I'm jW, an aspiring security researcher and "whitehat in my own definition" based in the wonderful locale of London. I have yet to setup any social media accounts, but I'll keep the website updated if I ever find the time to.
+I'm jW a 17 year old aspiring security researcher and "whitehat in my own definition" based in the wonderful locale of London. I have yet to setup any social media accounts, but I'll keep the website updated if I ever find the time to.
+
 
 ### Contact 
 If you wish to contact me, please use the mail which can be found below. Please always ensure to encrypt your message with the following PGP key.
