@@ -3,7 +3,7 @@ layout: post
 title: [Interesting Title Here]
 ---
 
-Placeholder for when I actually have topics to write about.
+Connor jackson is a bumboy.
 
 ![_config.yml]({{ site.baseurl }})
 
